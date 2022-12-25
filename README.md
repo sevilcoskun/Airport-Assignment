@@ -22,7 +22,8 @@ Bonus: Support retrieving the information given a partial/fuzzy country code/nam
 - Java 17 JDK Installed
 - Maven Installed
 # Run Applicaiton
-Open Terminal in the Project Folder and run :
+- Clone this repo into your local
+- Open Terminal in this cloned project folder and run
 > mvn spring-boot:run 
 
   1. To get all Runaways for a given country NAME:
